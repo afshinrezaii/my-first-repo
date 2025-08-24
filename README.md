@@ -3,7 +3,7 @@
 ```python
 #!/usr/bin/env python3
 """
-main.py — نمونهٔ ساده CLI که اسم می‌گیرد و پیام می‌زند.")
+main.py — نمونهٔ ساده CLI که اسم می‌گیرد و پیام می‌زند.
 """
 import argparse
 from datetime import datetime
