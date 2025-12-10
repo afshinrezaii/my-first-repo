@@ -13,7 +13,7 @@ def greet(name: str) -> str:
 
     
     
-    return f"Salam, {name}! (time: {now})"
+    return f"Salam, {name}! (time: {now}
 
 def main():
     parser = argparse.ArgumentParser(description="Hello GitHub simple CLI
