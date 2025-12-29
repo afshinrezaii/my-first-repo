@@ -19,7 +19,7 @@ def main():
     parser = argparse.ArgumentParser(description="Hello GitHub simple CLI
     parser.add_argument("--name", "-n", default="World", help="Name to greet
     args = parser.parse_args()
-    print(greet(args.name))
+    print(greet(args.name))":
 
 if __name__ == "__main__
     main()
