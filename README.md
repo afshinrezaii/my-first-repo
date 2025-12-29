@@ -21,5 +21,5 @@ def main():
     args = parser.parse_args()
     print(greet(args.name))
 
-if __name__ == "__main__":
+if __name__ == "__main__
     main()
